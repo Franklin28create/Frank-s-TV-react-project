@@ -2041,7 +2041,7 @@ hr {
   .watchlist-item__img--wrapper {
     margin-right: 0;
     display: flex;
-    max-width: 100%;
+    max-width: 45%;
     height: 45vh;
   }
 
